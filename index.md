@@ -24,8 +24,7 @@ Versão 0.2.2
 
 *obs.: existe um erro onde mesmo que seja zero o programa fechará caso não entre com os 4 gases disponíveis de saída. Então no caso onde por exemplo há uma saída de 78% de composição molar de N2, 2% de O2, 0% de CO e 20% de CO2 na saída ainda se faz necessário entrar com 0% de CO na tabela. Próxima versão isso será corrigido.
 
-![Octocat](./imagens/combustão1.png)
-
+[![](./imagens/combustão1.png)](./imagens/combustão1.png)
 
 ### Header 3
 
