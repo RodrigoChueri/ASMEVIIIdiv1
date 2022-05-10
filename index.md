@@ -2,29 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 Esta página é um repositório de resumos, softwares e outros projetos realizados por Rodrigo Chueri, estudante de engenharia mecânica na Universidade Federal do Rio de Janeiro.
 
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ### Fluxograma para projeto de vasos de pressão com a ASME VIII div 1
 
-[Link para o diagrama](./asme/diagrama.html).
+[Link para o diagrama](./asme/diagrama.html). *_Ainda se encontra em construção o diagrama_
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Simulador de combustão e poluentes
+
+Versão 0.2.2
+[Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_0096bb8b90ab4329b63177512d54540a.zip?dn=Thermal%20Calculator.zip). 
+>Pode ser necessário a instalação do Microsoft .Net Framework 5.0 [Link para download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.16-windows-x64-installer)
+
+
+*obs.: existe um erro onde mesmo que seja zero o programa fechará caso não entre com os 4 gases disponíveis de saída. Então no caso onde por exemplo há uma saída de 78% de composição molar de N2, 2% de O2, 0% de CO e 20% de CO2 na saída ainda se faz necessário entrar com 0% de CO na tabela. Próxima versão isso será corrigido.
+
+![Octocat](./imagens/combustão1.png)
+
 
 ### Header 3
 
@@ -43,17 +44,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
