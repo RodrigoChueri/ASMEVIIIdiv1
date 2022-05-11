@@ -17,7 +17,7 @@ Esta página é um repositório de resumos, softwares e outros projetos realizad
 
 ### Simulador de combustão e poluentes
 
-Versão 0.2.2
+23/03/2022  Versão 0.2.2
 [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_0096bb8b90ab4329b63177512d54540a.zip?dn=Thermal%20Calculator.zip). 
 >Pode ser necessário a instalação do Microsoft .Net Framework 5.0 [Link para download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.16-windows-x64-installer)
 
@@ -28,6 +28,18 @@ Versão 0.2.2
 
 * * *
 
+### Breve guia de sistemas de controle
+[Link para o artigo]( https://www.academia.edu/s/04914a51d8). *acompanha algumas linhas de código em Maple
+
+***
+
+### Calculadora de reações em barras
+23/03/2022 Versão 0.2  [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_0096bb8b90ab4329b63177512d54540a.zip?dn=Thermal%20Calculator.zip).
+
+
+
+
+<!-- 
 ### Header 3
 
 ```js
@@ -43,10 +55,10 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 
-
+<!-- 
 ###### Header 6
 
 | head1        | head two          | three |
@@ -55,7 +67,7 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
+ -->
 
 
 
