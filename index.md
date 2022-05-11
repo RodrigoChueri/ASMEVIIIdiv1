@@ -6,14 +6,14 @@ layout: default
 
 Esta página é um repositório de resumos, softwares e outros projetos realizados por Rodrigo Chueri, estudante de engenharia mecânica na Universidade Federal do Rio de Janeiro.
 
-
+* * *
 
 
 ### Fluxograma para projeto de vasos de pressão com a ASME VIII div 1
 
 [Link para o diagrama](./asme/diagrama.html). *_Ainda se encontra em construção o diagrama_
 
-
+* * *
 
 ### Simulador de combustão e poluentes
 
@@ -25,6 +25,8 @@ Versão 0.2.2
 *obs.: existe um erro onde mesmo que seja zero o programa fechará caso não entre com os 4 gases disponíveis de saída. Então no caso onde por exemplo há uma saída de 78% de composição molar de N2, 2% de O2, 0% de CO e 20% de CO2 na saída ainda se faz necessário entrar com 0% de CO na tabela. Próxima versão isso será corrigido.
 
 [![](./imagens/combustão1.png)](./imagens/combustão1.png)
+
+* * *
 
 ### Header 3
 
@@ -54,9 +56,7 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
 
 ### Here is an unordered list:
 
@@ -91,21 +91,5 @@ end
 
 ### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
