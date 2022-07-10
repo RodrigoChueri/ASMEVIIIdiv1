@@ -29,7 +29,7 @@ Esta página é um repositório de resumos, softwares e outros projetos realizad
 * * *
 
 ### Breve guia de sistemas de controle
-[Link para o artigo]( https://www.academia.edu/s/04914a51d8). *acompanha algumas linhas de código em Maple
+[Link para o artigo]( https://www.academia.edu/74098782/Um_breve_resumo_em_Sistemas_de_Controle). *acompanha algumas linhas de código em Maple
 
 ***
 
