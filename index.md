@@ -10,18 +10,21 @@ Esta página é um repositório de resumos, softwares e outros projetos realizad
 
 ### Construtor e simulador de circuitos hidraulicos
 
-
+O software tem como objetivo permitir o usuário desenhar e simular circuitos hidraulicos complexos com componentes como pistões, válvulas multidirecionas, acumuladores, selenóides, controladores entre muitos outros. Atualmente está sendo desenvolvido como Projeto de Conclusão de Curso com previsão de versão estável para Q3 de 2023.
+11/02/2023
 [![](./imagens/simulação_hidro.gif)](./imagens/simulação_hidro.gif)
 
 
-[Link para o diagrama](./asme/diagrama.html). *_Ainda se encontra em construção o diagrama_
+[Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_02a9534b96f14dee97e51357ec95a877.zip?dn=Release.zip).
+*_Ainda se encontra em construção o software
+>Pode ser necessário a instalação do Microsoft .Net Framework 5.0 [Link para download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.16-windows-x64-installer). 
 
 * * *
 
 
 ### Fluxograma para projeto de vasos de pressão com a ASME VIII div 1
 
-[Link para o diagrama](./asme/diagrama.html). *_Ainda se encontra em construção o diagrama_
+[Link para o diagrama](./asme/diagrama.html). 
 
 * * *
 
