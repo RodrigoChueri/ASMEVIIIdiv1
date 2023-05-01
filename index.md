@@ -29,7 +29,7 @@ Versão de 11/02/2023 para download: [Link direto para download](https://276b938
 
 ### Simulador de combustão e poluentes
 
-23/03/2022  Versão 0.2.2
+23/03/2023  Versão 0.2.2
 [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_0096bb8b90ab4329b63177512d54540a.zip?dn=Thermal%20Calculator.zip). 
 >Pode ser necessário a instalação do Microsoft .Net Framework 5.0 [Link para download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.16-windows-x64-installer)
 
