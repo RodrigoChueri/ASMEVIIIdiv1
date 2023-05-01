@@ -10,7 +10,7 @@ Esta página é um repositório de resumos, softwares e outros projetos realizad
 
 ### Construtor e simulador de circuitos hidraulicos
 
-O software tem como objetivo permitir o usuário desenhar e simular circuitos hidraulicos complexos com componentes como pistões, válvulas multidirecionas, acumuladores, selenóides, controladores entre muitos outros. Atualmente está sendo desenvolvido como Projeto de Conclusão de Curso com previsão de versão estável para Q3 de 2023.
+O software tem como objetivo permitir o usuário desenhar e simular circuitos hidraulicos complexos com componentes como pistões, válvulas multidirecionas, acumuladores, selenóides, controladores entre muitos outros. 
 
 [![](./imagens/simulação_hidro2.gif)](./imagens/simulação_hidro2.gif)
 
