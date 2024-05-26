@@ -7,9 +7,11 @@ layout: default
 Esta página é um repositório de resumos, softwares e outros projetos realizados por Rodrigo Chueri, estudante de engenharia mecânica na Universidade Federal do Rio de Janeiro.
 
 * * *
-### Software de refrigeração RefrigerationStuido
+### Software de refrigeração RefrigerationStudio
 
 O RefrigerationStudio foi concebido como um Trabalho de Conclusão de Curso e tem como objetivo permitir o rápido dimensionamento de sistemas de refrigeração, tendo uma curva de aprendizado simples sendo possível o aprendizado completo em menos de 1 hora.
+
+Em breve serão feitos playlists ensinando o uso do software.
 
 
 [![](./imagens/estudo 3 andar 3.png)](./imagens/estudo 3 andar 3.png))
