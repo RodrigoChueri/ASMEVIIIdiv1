@@ -12,7 +12,9 @@ Esta página é um repositório de resumos, softwares e outros projetos realizad
 O RefrigerationStudio foi concebido como um Trabalho de Conclusão de Curso e tem como objetivo permitir o rápido dimensionamento de sistemas de refrigeração, tendo uma curva de aprendizado simples sendo possível o aprendizado completo em menos de 1 hora.
 
 
-[![](./imagens/estudo 3 andar 3.png)](./imagens/estudo 3 relatorio3.png)
+[![](./imagens/estudo 3 andar 3.png)](./imagens/estudo 3 andar 3.png))
+[![](./imagens/estudo 3 relatorio3.png)](./imagens/estudo 3 relatorio3.png)
+[![](./imagens/estudo 3 relatorio4.png)](./imagens/estudo 3 relatorio4.png)
 
 Versão de 26/05/2024 para download: [Link para download](https://drive.google.com/uc?export=download&id=1kHttX28pU4OBQrn6P5Yy13d3PTSF4Dee).
 
