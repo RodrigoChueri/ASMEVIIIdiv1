@@ -14,7 +14,7 @@ O RefrigerationStudio foi concebido como um Trabalho de Conclusão de Curso e te
 Em breve serão feitos playlists ensinando o uso do software.
 
 
-[![](./imagens/estudo 3 andar 3.png)](./imagens/estudo 3 andar 3.png))
+[![](./imagens/estudo 3 andar 3.png)](./imagens/estudo 3 andar 3.png)
 [![](./imagens/estudo 3 relatorio3.png)](./imagens/estudo 3 relatorio3.png)
 [![](./imagens/estudo 3 relatorio4.png)](./imagens/estudo 3 relatorio4.png)
 
@@ -22,7 +22,7 @@ Versão de 26/05/2024 para download: [Link para download](https://drive.google.c
 
 * * *
 
-### Construtor e simulador de circuitos hidraulicos
+<!-- ### Construtor e simulador de circuitos hidraulicos
 
 O software tem como objetivo permitir o usuário desenhar e simular circuitos hidraulicos complexos com componentes como pistões, válvulas multidirecionas, acumuladores, selenóides, controladores entre muitos outros. 
 
@@ -33,14 +33,10 @@ Versão de 11/02/2024 para download: [Link direto para download](https://276b938
 *_Ainda se encontra em construção o software
 >Pode ser necessário a instalação do Microsoft .Net Framework 5.0 [Link para download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.16-windows-x64-installer). 
 
-* * *
+* * * -->
 
 
-### Fluxograma para projeto de vasos de pressão com a ASME VIII div 1
 
-[Link para o diagrama](./asme/diagrama.html). 
-
-* * *
 
 ### Simulador de combustão e poluentes
 
@@ -55,10 +51,12 @@ Versão de 11/02/2024 para download: [Link direto para download](https://276b938
 
 * * *
 
-### Breve guia de sistemas de controle
-[Link para o artigo]( https://www.academia.edu/74098782/Um_breve_resumo_em_Sistemas_de_Controle). *acompanha algumas linhas de código em Maple
+### Fluxograma para projeto de vasos de pressão com a ASME VIII div 1
 
-***
+[Link para o diagrama](./asme/diagrama.html). 
+
+* * *
+
 
 ### Calculadora de reações em barras
 23/03/2022 Versão 1.0  [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_0096bb8b90ab4329b63177512d54540a.zip?dn=Thermal%20Calculator.zip).
