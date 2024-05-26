@@ -7,14 +7,25 @@ layout: default
 Esta página é um repositório de resumos, softwares e outros projetos realizados por Rodrigo Chueri, estudante de engenharia mecânica na Universidade Federal do Rio de Janeiro.
 
 * * *
+### Software de refrigeração RefrigerationStuido
+
+O RefrigerationStudio foi concebido como um Trabalho de Conclusão de Curso e tem como objetivo permitir o rápido dimensionamento de sistemas de refrigeração, tendo uma curva de aprendizado simples sendo possível o aprendizado completo em menos de 1 hora.
+
+
+[![](./imagens/estudo 3 andar 3.png)](./imagens/estudo 3 relatorio3.png)
+
+Versão de 26/05/2024 para download: [Link para download](https://drive.google.com/uc?export=download&id=1kHttX28pU4OBQrn6P5Yy13d3PTSF4Dee).
+
+* * *
 
 ### Construtor e simulador de circuitos hidraulicos
 
 O software tem como objetivo permitir o usuário desenhar e simular circuitos hidraulicos complexos com componentes como pistões, válvulas multidirecionas, acumuladores, selenóides, controladores entre muitos outros. 
 
+
 [![](./imagens/simulação_hidro2.gif)](./imagens/simulação_hidro2.gif)
 
-Versão de 11/02/2023 para download: [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_02a9534b96f14dee97e51357ec95a877.zip?dn=Release.zip).
+Versão de 11/02/2024 para download: [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_02a9534b96f14dee97e51357ec95a877.zip?dn=Release.zip).
 *_Ainda se encontra em construção o software
 >Pode ser necessário a instalação do Microsoft .Net Framework 5.0 [Link para download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.16-windows-x64-installer). 
 
@@ -46,7 +57,7 @@ Versão de 11/02/2023 para download: [Link direto para download](https://276b938
 ***
 
 ### Calculadora de reações em barras
-23/03/2022 Versão 0.2  [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_0096bb8b90ab4329b63177512d54540a.zip?dn=Thermal%20Calculator.zip).
+23/03/2022 Versão 1.0  [Link direto para download](https://276b9387-0c36-45a3-9bf9-f95e9c0b0546.filesusr.com/archives/261cc9_0096bb8b90ab4329b63177512d54540a.zip?dn=Thermal%20Calculator.zip).
 >Pode ser necessário a instalação do Microsoft .Net Framework 5.0 [Link para download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.16-windows-x64-installer)
 
 
